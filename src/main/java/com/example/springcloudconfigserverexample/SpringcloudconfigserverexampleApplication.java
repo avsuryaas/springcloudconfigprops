@@ -10,6 +10,8 @@ public class SpringcloudconfigserverexampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringcloudconfigserverexampleApplication.class, args);
+		
+		System.out.println("spring cloud config  server applocation is created using springboot");
 	}
 
 }
